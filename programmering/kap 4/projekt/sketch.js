@@ -97,13 +97,3 @@ function keyPressed() {
     a = 2;
   }
 }
-
-function preload(){
-  img=image()
-}
-
-function collision() {
-  if ( {
-    explode;
-  }
-}
